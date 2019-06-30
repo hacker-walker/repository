@@ -1,36 +1,11 @@
 # repository
 
-#### Description
-知识库
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Instructions
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Contribution
-
-1. Fork the repository
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
+repository
 
 
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+🇨🇳简体中文 | 🇺🇸[English](./README.md) | [更新日志](https://gitee.com/Hacker-walker/repository)
+[![author](https://img.shields.io/badge/author-walker-blue.svg)](https://wuxf.cn)
+[![JDK](https://img.shields.io/badge/JDK-1.8-orange.svg)](https://github.com/Liu777/dynamic-datasource)
+[![QQ群](https://img.shields.io/badge/chat-walkerQQ%E7%BE%A4-yellow.svg)](https://jq.qq.com/?_wv=1027&k=5mjexzD)
+<a href="https://github.com/hacker-walker/repository"><img alt="star" src="https://img.shields.io/github/stars/hacker-walker/repository.svg?label=Stars&style=social"/></a>
+[![star](https://gitee.com/Hacker-walker/repository/badge/star.svg?theme=dark)](https://gitee.com/Hacker-walker/repository/stargazers)
