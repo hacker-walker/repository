@@ -26,8 +26,8 @@
 
 ### 基础
 
-* [Java 基础知识回顾](repository/java/Java基础知识.md)
-* [J2EE 基础知识回顾](repository/java/J2EE基础知识.md)
+* [Java 基础知识回顾](../repository/java/Java基础知识.md)
+* [J2EE 基础知识回顾](../repository/java/J2EE基础知识.md)
 
 ### 容器
   
@@ -39,24 +39,24 @@
 
 ### 编程规范
 
-- [Java 编程规范](repository/java/Java编程规范.md)
+- [Java 编程规范](../repository/java/Java编程规范.md)
 
 ## 数据库
 
 ### MySQL
 
-* [MySQL 学习与面试](repository/database/Mysql/MySQL.md)
-* [一千行MySQL学习笔记](repository/database/Mysql/一千行MySQL命令.md)
-* [MySQL高性能优化规范建议](repository/database/Mysql/MySQL高性能优化规范建议.md)
-* [数据库索引总结](repository/database/Mysql/MySQL%20Index.md)
-* [事务隔离级别(图文详解)](repository/database/Mysql/事务隔离级别(图文详解).md)
-* [一条SQL语句在MySQL中如何执行的](repository/database/Mysql/一条sql语句在mysql中如何执行的.md)
+* [MySQL 学习与面试](../repository/database/Mysql/MySQL.md)
+* [一千行MySQL学习笔记](../repository/database/Mysql/一千行MySQL命令.md)
+* [MySQL高性能优化规范建议](../repository/database/Mysql/MySQL高性能优化规范建议.md)
+* [数据库索引总结](../repository/database/Mysql/MySQL%20Index.md)
+* [事务隔离级别(图文详解)](../repository/database/Mysql/事务隔离级别(图文详解).md)
+* [一条SQL语句在MySQL中如何执行的](../repository/database/Mysql/一条sql语句在mysql中如何执行的.md)
 
 ### Redis
 
-* [Redis 总结](repository/database/Redis/Redis.md)
-* [Redlock分布式锁](repository/database/Redis/Redlock分布式锁.md)
-* [如何做可靠的分布式锁，Redlock真的可行么](repository/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
+* [Redis 总结](../repository/database/Redis/Redis.md)
+* [Redlock分布式锁](../repository/database/Redis/Redlock分布式锁.md)
+* [如何做可靠的分布式锁，Redlock真的可行么](../repository/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
 
 ## 说明
 
