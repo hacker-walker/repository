@@ -32,7 +32,7 @@
 
 ### JVM
 
-* [JVM类加载器](../repository/database/java/JVM.md)
+* [JVM类加载器](repository/database/java/JVM.md)
 
 ### I/O
 
