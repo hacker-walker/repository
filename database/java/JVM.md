@@ -1,6 +1,6 @@
 <!-- TOC -->
 
-# 类加载器：ClassLoader
+# JVM类加载器：ClassLoader
 ![JVM类加载器](https://i.loli.net/2019/07/03/5d1ca4e6bc61172562.png)
 ## java文件分为几种形态？
 2种：静态、动态
@@ -23,8 +23,10 @@
 # JVM运行时数据区
 ![](https://i.loli.net/2019/07/03/5d1ca8c56275b47502.png)
 
-## Java堆()
+## JVM内存结构——》Java堆()
 
-## 方法区()
 
-# GC回收机制
+## VM内存结构——》方法区()
+
+## JVM内存结构——》栈()
+![](https://i.loli.net/2019/07/03/5d1cc0bfbbc6337035.png)
