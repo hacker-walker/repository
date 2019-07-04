@@ -34,7 +34,7 @@ repository
 
 ### JVM
 
-* [JVM类加载器](../repository/database/java/JVM.md)
+* [JVM类加载器](./database/java/JVM.md)
 
 ### I/O
 
@@ -44,11 +44,11 @@ repository
 
 ### MySQL
 
-* [MySQL 学习与面试](../repository/database/Mysql/MySQL.md)
+* [MySQL 学习与面试](./database/Mysql/MySQL.md)
 
 ### Redis
 
-* [Redis 总结](../repository/database/Redis/Redis.md)
+* [Redis 总结](./database/Redis/Redis.md)
 
 ## 说明
 
@@ -56,7 +56,8 @@ repository
 
 *  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
 也是你学习和复习 Java 知识不错的实践；
-*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
+*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。
+要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
 
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
