@@ -1,5 +1,5 @@
 <!-- TOC -->
-- [JVM类加载器 简介](#JVM类加载器-简介)
+- [JVM类加载器：ClassLoader  简介](#JVM类加载器：ClassLoader-简介)
 - [java文件分为几种形态](#java文件分为几种形态)
     - [1.静态](#1静态)
     - [2.静态](#2静态)
@@ -22,7 +22,7 @@
 
 <!-- TOC -->
 
-# JVM类加载器：ClassLoader
+# JVM类加载器：ClassLoader  简介
 
 加载指的是将类的class文件读入到内存，并为之创建一个java.lang.Class对象，也就是说，当程序中使用任何类时，系统都会为之建立一个java.lang.Class对象。
 
@@ -82,7 +82,6 @@
 3.总结知识要点<br>
 
 ## JVM运行时数据区
-
 类在内存的唯一性，运行时数据区
 ![](https://i.loli.net/2019/07/03/5d1ca8c56275b47502.png)
 ```
