@@ -17,9 +17,9 @@
     - [2.4 NIO核心组件简单介绍](#24-nio核心组件简单介绍)
     - [2.5 代码示例](#25-代码示例)
   - [3. AIO  \(Asynchronous I/O\)](#3-aio-asynchronous-io)
+- [文章来源](#文章来源)
 
 <!-- /MarkdownTOC -->
-
 
 # BIO,NIO,AIO 总结
 
@@ -340,4 +340,5 @@ AIO 是异步IO的缩写，虽然 NIO 在网络操作中，提供了非阻塞的
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料笔记，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+该项目主要用于收集整理自己学习中的资料笔记，页面来源于下方公众号<br>
+![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)

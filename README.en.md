@@ -39,8 +39,9 @@ repository
 
 ### I/O
 
-* [BIO,NIO,AIO 总结 ](./database/java/io/BIO-NIO-AIO.md)
-* [Java IO 与 NIO系列文章](./database/java/io/Java IO与NIO.md)
+* [一 BIO,NIO,AIO 总结 ](./database/java/io/BIO-NIO-AIO.md)
+
+* [二 Java IO与NIO系列文章](./database/java/io/Java IO与NIO.md)
 
 ### 编程规范
 
@@ -74,6 +75,7 @@ If you need to reprint some articles from this warehouse to your own blog, pleas
 
 ### article source 
 
-This project is mainly used to collect and sort out the data notes in my study![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)<br>
-If you need to learn more, keep an eye on the princess!!!<br>
+This project is mainly used to collect and organize my notes in study. Most articles are from the official account below <br>
+![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png) <br>
+If you need to learn more, keep an eye on the princess!!! <br>
 If there are similar, pure coincidence!!!

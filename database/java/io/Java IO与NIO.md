@@ -13,10 +13,9 @@
   - [六 NIO学习总结以及NIO新特性介绍](#六-nio学习总结以及nio新特性介绍)
   - [七 Java NIO AsynchronousFileChannel异步文件通](#七-java-nio-asynchronousfilechannel异步文件通)
   - [八 高并发Java（8）：NIO和AIO](#八-高并发java（8）：nio和aio)
+- [文章来源](#文章来源)
 
 <!-- /MarkdownTOC -->
-
-
 
 ## IO流学习总结
 
@@ -186,4 +185,5 @@ Java7中新增了AsynchronousFileChannel作为nio的一部分。AsynchronousFile
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料笔记，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+该项目主要用于收集整理自己学习中的资料笔记，页面来源于下方公众号<br>
+![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)

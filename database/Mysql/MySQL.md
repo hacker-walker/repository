@@ -23,6 +23,7 @@
     - [一条SQL语句在MySQL中如何执行的](#一条sql语句在mysql中如何执行的)
     - [MySQL高性能优化规范建议](#mysql高性能优化规范建议)
     - [一条SQL语句执行得很慢的原因有哪些？](#一条sql语句执行得很慢的原因有哪些)
+- [文章来源](#文章来源)
 
 <!-- /TOC -->
 
@@ -287,5 +288,5 @@ InnoDB 存储引擎在 **分布式事务** 的情况下一般会用到**SERIALIZ
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料笔记，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
-
+该项目主要用于收集整理自己学习中的资料笔记，页面来源于下方公众号<br>
+![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)

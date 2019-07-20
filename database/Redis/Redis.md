@@ -17,6 +17,7 @@
 - [缓存雪崩和缓存穿透问题解决方案](#缓存雪崩和缓存穿透问题解决方案)
 - [如何解决 Redis 的并发竞争 Key 问题](#如何解决-redis-的并发竞争-key-问题)
 - [如何保证缓存与数据库双写时的数据一致性?](#如何保证缓存与数据库双写时的数据一致性)
+- [文章来源](#文章来源)
 
 <!-- /TOC -->
 
@@ -283,4 +284,5 @@ Redis 通过 MULTI、EXEC、WATCH 等命令来实现事务(transaction)功能。
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料笔记，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+该项目主要用于收集整理自己学习中的资料笔记，页面来源于下方公众号<br>
+![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
