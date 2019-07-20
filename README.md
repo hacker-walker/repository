@@ -76,6 +76,6 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 该项目主要用于收集整理自己学习中的资料笔记，多数文章来源于下方的公众号<br>
 ![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)<br>
-如果需要更加深入学习，记得关注该公主号！！！<br>
+如果需要更加深入学习，记得关注该公众号！！！<br>
 如有雷同，纯属巧合！！！
 
