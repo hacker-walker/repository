@@ -185,5 +185,5 @@ Java7中新增了AsynchronousFileChannel作为nio的一部分。AsynchronousFile
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料笔记，页面来源于下方公众号<br>
+该项目主要用于收集整理自己学习中的资料笔记，文章来源于下方公众号<br>
 ![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
