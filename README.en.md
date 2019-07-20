@@ -15,8 +15,6 @@ repository
 
 - [Java](#java)
     - [基础](#基础)
-    - [容器](#容器)
-    - [并发](#并发)
     - [JVM](#jvm)
     - [I/O](#io)
     - [编程规范](#编程规范)
@@ -28,9 +26,8 @@ repository
 
 ### 基础
 
-### 容器
-  
-### 并发
+* [一 java基础知识](java/Java基础知识.md)
+* [二 J2EE基础知识](java/J2EE基础知识.md)
 
 ### JVM
 
