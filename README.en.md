@@ -74,6 +74,6 @@ If you need to reprint some articles from this warehouse to your own blog, pleas
 
 ### article source 
 
-This project is mainly used to collect and sort out their own learning materials and articles, most of the articles in this project come from![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
-If you need to learn more, keep an eye on the princess!!!
+This project is mainly used to collect and sort out the data notes in my study![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)<br>
+If you need to learn more, keep an eye on the princess!!!<br>
 If there are similar, pure coincidence!!!

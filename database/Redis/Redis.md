@@ -283,4 +283,4 @@ Redis 通过 MULTI、EXEC、WATCH 等命令来实现事务(transaction)功能。
 
 ## 文章来源
 
-该项目主要用于收集整理自己学习中的资料和文章，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+该项目主要用于收集整理自己学习中的资料笔记，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
