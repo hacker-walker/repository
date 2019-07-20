@@ -23,7 +23,7 @@ repository
 - [数据库](#数据库)
     - [MySQL](#mysql)
     - [Redis](#redis)
-- [说明](#说明)
+- [explain ](#explain )
 ## Java
 
 ### 基础
@@ -34,7 +34,7 @@ repository
 
 ### JVM
 
-* [JVM类加载器](./database/java/JVM.md)
+* [JVM类加载器](database/java/jvm/JVM.md)
 
 ### I/O
 
@@ -50,19 +50,24 @@ repository
 
 * [Redis 总结](./database/Redis/Redis.md)
 
-## 说明
+## explain 
 
-### 介绍
+### introduce
 
-*  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
-也是你学习和复习 Java 知识不错的实践；
-*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。
-要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
+*  **对于 Java For beginners：** This document is intended to provide you with a more detailed learning path to give you a sense of the overall body of knowledge of Java.In addition, some of the articles in this article are good practices for you to learn and review your Java knowledge；
+*  **对于非 Java 初学者来说：** This document is better for reviewing your knowledge, preparing for the interview, and figuring out which questions to focus on.
+要搞清楚这个道理：Know the interviews ahead of time, not so you can memorize them, but so you can focus on them.
 
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
 
-### 关于转载
+### About the transfer
 
-如果需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
+If you need to reprint some articles from this warehouse to your own blog, please note the original address.
+
+### article source 
+
+This project is mainly used to collect and sort out their own learning materials and articles, most of the articles in this project come from![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+If you need to learn more, keep an eye on the princess!!!
+If there are similar, pure coincidence!!!

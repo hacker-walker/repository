@@ -33,7 +33,9 @@
 
 ### JVM
 
-* [JVM类加载器](./database/java/JVM.md)
+* [一 Java内存区域](./database/java/jvm/Java内存区域.md)
+* [二 JVM类加载器](database/java/jvm/JVM.md)
+* [三 类加载过程](./database/java/jvm/类加载过程.md)
 
 ### I/O
 
@@ -66,4 +68,9 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 如果需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
 
+### 文章来源
+
+该项目主要用于收集整理自己学习中的资料和文章，该项目多数文章来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+如果需要更加深入学习，记得关注该公主号！！！
+如有雷同，纯属巧合！！！
 

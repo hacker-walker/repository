@@ -1,7 +1,6 @@
 <!-- TOC -->
 
 - [书籍推荐](#书籍推荐)
-- [文字教程推荐](#文字教程推荐)
 - [视频教程推荐](#视频教程推荐)
 - [常见问题总结](#常见问题总结)
     - [什么是MySQL?](#什么是mysql)
@@ -31,12 +30,6 @@
 
 - 《SQL基础教程（第2版）》 （入门级）
 - 《高性能MySQL : 第3版》 (进阶)
-
-## 文字教程推荐
-
-[MySQL 教程（菜鸟教程）](http://www.runoob.com/MySQL/MySQL-tutorial.html)
-
-[MySQL教程（易百教程）](https://www.yiibai.com/MySQL/)
 
 ## 视频教程推荐
 
@@ -291,4 +284,8 @@ InnoDB 存储引擎在 **分布式事务** 的情况下一般会用到**SERIALIZ
 ### 一条SQL语句执行得很慢的原因有哪些？
 
 [腾讯面试：一条SQL语句执行得很慢的原因有哪些？---不看后悔系列](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485185&idx=1&sn=66ef08b4ab6af5757792223a83fc0d45&chksm=cea248caf9d5c1dc72ec8a281ec16aa3ec3e8066dbb252e27362438a26c33fbe842b0e0adf47&token=79317275&lang=zh_CN#rd)
+
+## 文章来源
+
+该项目主要用于收集整理自己学习中的资料和文章，该页面来源于![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
 
