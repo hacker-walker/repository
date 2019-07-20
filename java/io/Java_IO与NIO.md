@@ -1,9 +1,6 @@
 <!-- MarkdownTOC -->
 
 - [IO流学习总结](#io流学习总结)
-  - [一　Java IO，硬骨头也能变软](#一-java-io，硬骨头也能变软)
-  - [二　java IO体系的学习总结](#二-java-io体系的学习总结)
-  - [三　Java IO面试题](#三-java-io面试题)
 - [NIO与AIO学习总结](#nio与aio学习总结)
   - [一 Java NIO 概览](#一-java-nio-概览)
   - [二 Java NIO 之 Buffer\(缓冲区\)](#二-java-nio-之-buffer缓冲区)
@@ -19,8 +16,6 @@
 
 ## IO流学习总结
 
-### [一　Java IO，硬骨头也能变软](https://mp.weixin.qq.com/s?__biz=MzU4NDQ4MzU5OA==&mid=2247483981&idx=1&sn=6e5c682d76972c8d2cf271a85dcf09e2&chksm=fd98542ccaefdd3a70428e9549bc33e8165836855edaa748928d16c1ebde9648579d3acaac10#rd)
-
 **（1） 按操作方式分类结构图：**
 
 ![IO-操作方式分类](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/IO-操作方式分类.png)
@@ -30,20 +25,19 @@
 
 ![IO-操作对象分类](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/IO-操作对象分类.png)
 
-### [二　java IO体系的学习总结](https://blog.csdn.net/nightcurtis/article/details/51324105) 
-1. **IO流的分类：**
+ **IO流的分类：**
    - 按照流的流向分，可以分为输入流和输出流；
    - 按照操作单元划分，可以划分为字节流和字符流；
    - 按照流的角色划分为节点流和处理流。
-2. **流的原理浅析:**
+   
+**流的原理浅析:**
 
    java Io流共涉及40多个类，这些类看上去很杂乱，但实际上很有规则，而且彼此之间存在非常紧密的联系， Java Io流的40多个类都是从如下4个抽象类基类中派生出来的。
 
    - **InputStream/Reader**: 所有的输入流的基类，前者是字节输入流，后者是字符输入流。
    - **OutputStream/Writer**: 所有输出流的基类，前者是字节输出流，后者是字符输出流。
-3. **常用的io流的用法** 
 
-### [三　Java IO面试题](https://mp.weixin.qq.com/s?__biz=MzU4NDQ4MzU5OA==&mid=2247483985&idx=1&sn=38531c2cee7b87f125df7aef41637014&chksm=fd985430caefdd26b0506aa84fc26251877eccba24fac73169a4d6bd1eb5e3fbdf3c3b940261#rd)
+**常用的io流的用法** 
 
 ## NIO与AIO学习总结
 

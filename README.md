@@ -33,27 +33,27 @@
 
 ### JVM
 
-* [一 Java内存区域](./database/java/jvm/Java内存区域.md)
-* [二 类加载过程](./database/java/jvm/类加载过程.md)
+* [一 Java内存区域](java/jvm/Java内存区域.md)
+* [二 类加载过程](java/jvm/类加载过程.md)
 
 ### I/O
 
-* [一 BIO,NIO,AIO 总结 ](./database/java/io/BIO-NIO-AIO.md)
-* [二 JavaIO与NIO文章](database/java/io/Java_IO与NIO.md)
+* [一 BIO,NIO,AIO 总结 ](java/io/BIO-NIO-AIO.md)
+* [二 JavaIO与NIO文章](java/io/Java_IO与NIO.md)
 
 ### 编程规范
 
-- [Java 编程规范](./database/java/Java编程规范.md)
+- [Java 编程规范](java/Java编程规范.md)
 
 ## 数据库
 
 ### MySQL
 
-* [MySQL 学习与面试](./database/Mysql/MySQL.md)
+* [MySQL 学习与面试](Mysql/MySQL.md)
 
 ### Redis
 
-* [Redis 总结](./database/Redis/Redis.md)
+* [Redis 总结](Redis/Redis.md)
 
 ## 说明
 
