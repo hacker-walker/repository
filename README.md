@@ -13,7 +13,7 @@
 
 - [Java](#java)
     - [基础](#基础)
-    - [Java/8](#Java/8)
+    - [Java8](#Java8)
     - [JDK](#jdk)
     - [JVM](#jvm)
     - [I/O](#io)
@@ -30,7 +30,7 @@
 * [一 java基础知识](Java/Java基础知识.md)
 * [二 J2EE基础知识](Java/J2EE基础知识.md)
 
-### Java/8
+### Java8
 
 * [新特性总结](Java/Java8Tutorial.md)
 * [学习资源推荐](Java/Java8教程推荐.md)
