@@ -13,6 +13,7 @@
 
 - [Java](#java)
     - [基础](#基础)
+    - [Java 8](#jdk)
     - [JVM](#jvm)
     - [I/O](#io)
     - [编程规范](#编程规范)
@@ -27,6 +28,12 @@
 
 * [一 java基础知识](Java/Java基础知识.md)
 * [二 J2EE基础知识](Java/J2EE基础知识.md)
+
+### Java 8 
+
+* [Java 8 新特性总结](Java/jdk/Java8Tutorial.md)
+* [Java 8 学习资源推荐](Java/jdk/Java8教程推荐.md)
+* [Java 8 接口规范](Java/jdk/JDK8接口规范-静态、默认方法.md)
 
 ### JVM
 
