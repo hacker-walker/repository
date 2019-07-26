@@ -33,8 +33,8 @@ repository
 
 ### Java8 
 
-* [Java 8 新特性总结](Java/Java8Tutorial.md)
-* [Java 8 学习资源推荐](Java/Java8教程推荐.md)
+* [新特性总结](Java/Java8Tutorial.md)
+* [学习资源推荐](Java/Java8教程推荐.md)
 
 ### JDK 
 
