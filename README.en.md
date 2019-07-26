@@ -15,7 +15,7 @@ repository
 
 - [Java](#java)
     - [基础](#基础)
-    - [Java 8](#Java 8)
+    - [Java8](#Java8)
     - [JDK](#jdk)
     - [JVM](#jvm)
     - [I/O](#io)
@@ -31,7 +31,7 @@ repository
 * [一 java基础知识](Java/Java基础知识.md)
 * [二 J2EE基础知识](Java/J2EE基础知识.md)
 
-### Java 8 
+### Java8 
 
 * [Java 8 新特性总结](Java/Java8Tutorial.md)
 * [Java 8 学习资源推荐](Java/Java8教程推荐.md)
