@@ -15,7 +15,8 @@ repository
 
 - [Java](#java)
     - [基础](#基础)
-    - [Java 8](#jdk)
+    - [Java 8](#Java 8)
+    - [JDK](#jdk)
     - [JVM](#jvm)
     - [I/O](#io)
     - [编程规范](#编程规范)
@@ -32,9 +33,12 @@ repository
 
 ### Java 8 
 
-* [Java 8 新特性总结](Java/jdk/Java8Tutorial.md)
-* [Java 8 学习资源推荐](Java/jdk/Java8教程推荐.md)
-* [Java 8 接口规范](Java/jdk/JDK8接口规范-静态、默认方法.md)
+* [Java 8 新特性总结](Java/Java8Tutorial.md)
+* [Java 8 学习资源推荐](Java/Java8教程推荐.md)
+
+### JDK 
+
+* [接口规范](Java/jdk/JDK8接口规范-静态、默认方法.md)
 
 ### JVM
 
