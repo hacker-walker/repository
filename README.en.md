@@ -59,6 +59,7 @@ repository
 ### MySQL
 
 * [MySQL 学习与面试](Mysql/MySQL.md)
+* [MySQL高性能优化规范](Mysql/MySQL高性能优化规范.md)
 * [事务隔离级别](Mysql/事务隔离级别.md)
 
 ### Redis
@@ -86,4 +87,7 @@ If you need to reprint some articles from this warehouse to your own blog, pleas
 This project is mainly used to collect and organize my notes in study. Most articles are from the official account below <br>
 ![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png) <br>
 If you need to learn more, keep an eye on the princess!!! <br>
+
+Note:<br>
+Most of the articles in this treasure house are original works of various great gods, I just sort them out and put them here for everyone to learn together!<br>
 If there are similar, pure coincidence!!!

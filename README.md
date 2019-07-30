@@ -58,6 +58,7 @@
 ### MySQL
 
 * [MySQL 学习与面试](Mysql/MySQL.md)
+* [MySQL高性能优化规范](Mysql/MySQL高性能优化规范.md)
 * [事务隔离级别](Mysql/事务隔离级别.md)
 
 ### Redis
@@ -86,5 +87,8 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 该项目主要用于收集整理自己学习中的资料笔记，多数文章来源于下方的公众号<br>
 ![公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)<br>
 如果需要更加深入学习，记得关注该公众号！！！<br>
+
+注明：<br>
+该宝库多数文章都是各路大神原创著作，我只是整理到一起放到这里供大家一起学习！<br>
 如有雷同，纯属巧合！！！
 
