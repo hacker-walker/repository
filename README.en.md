@@ -66,6 +66,7 @@ repository
 ### Redis
 
 * [Redis 总结](Redis/Redis.md)
+* [Redis持久化](Redis/Redis持久化.md)
 
 ## explain 
 
