@@ -31,6 +31,7 @@
 * [二 J2EE基础知识](Java/J2EE基础知识.md)
 * [计算机网络](Java/basis/计算机网络.md)
 * [多线程系列](Java/basis/多线程系列.md)
+* [设计模式](Java/basis/设计模式.md)
 
 ### Java8
 
