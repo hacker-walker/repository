@@ -71,6 +71,7 @@
 * [Redis 总结](Redis/Redis.md)
 * [Redis持久化](Redis/Redis持久化.md)
 * [RedLock分布式锁](Redis/Redlock分布式锁.md)
+* [如何做可靠的分布式锁](Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
 
 ## 说明
 
