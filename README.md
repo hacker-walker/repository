@@ -100,3 +100,5 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 该宝库多数文章都是各路大神原创著作，我只是整理到一起放到这里供大家一起学习！<br>
 如有雷同，纯属巧合！！！
 
+### 微信公众号:堇夏年华
+![个人公众号](https://images.gitee.com/uploads/images/2019/0610/161454_710bf233_2127888.png)
