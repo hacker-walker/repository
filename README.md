@@ -22,7 +22,7 @@
     - [MySQL](#mysql)
     - [Redis](#redis)
 - [网络](#网络)
-    -[Network](#Network)
+    - [Network](#Network)
 - [说明](#说明)
 
 ## Java
@@ -78,7 +78,7 @@
 
 ### Network
 
-*[计算机网络](Network/计算机网络.md)
+* [计算机网络](Network/计算机网络.md)
 
 ## 说明
 

@@ -24,7 +24,7 @@ repository
     - [MySQL](#mysql)
     - [Redis](#redis)
 - [Network](#Network)
-    -[Network](#Networks)
+    - [Network](#Networks)
 - [explain ](#explain )
 ## Java
 
@@ -79,7 +79,7 @@ repository
 
 ### Networks
 
-*[计算机网络](Network/计算机网络.md)
+* [计算机网络](Network/计算机网络.md)
 
 ## explain 
 
