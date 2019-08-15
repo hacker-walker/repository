@@ -21,6 +21,8 @@
 - [数据库](#数据库)
     - [MySQL](#mysql)
     - [Redis](#redis)
+- [网络](#网络)
+    -[Network](#Network)
 - [说明](#说明)
 
 ## Java
@@ -29,7 +31,6 @@
 
 * [一 java基础知识](Java/Java基础知识.md)
 * [二 J2EE基础知识](Java/J2EE基础知识.md)
-* [计算机网络](Java/basis/计算机网络.md)
 * [多线程系列](Java/basis/多线程系列.md)
 * [设计模式](Java/basis/设计模式.md)
 
@@ -72,6 +73,12 @@
 * [Redis持久化](Redis/Redis持久化.md)
 * [RedLock分布式锁](Redis/Redlock分布式锁.md)
 * [如何做可靠的分布式锁](Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
+
+## 网络
+
+### Network
+
+*[计算机网络](Network/计算机网络.md)
 
 ## 说明
 
