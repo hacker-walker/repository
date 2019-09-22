@@ -64,6 +64,7 @@ repository
 ### MySQL
 
 * [MySQL 学习与面试](Mysql/MySQL.md)
+* [MySQL Index](Mysql/MySQL Index.md)
 * [MySQL高性能优化规范](Mysql/MySQL高性能优化规范.md)
 * [一千行MySQL命令](Mysql/一千行MySQL命令.md)
 * [事务隔离级别](Mysql/事务隔离级别.md)
